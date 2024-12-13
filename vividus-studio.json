@@ -1,0 +1,6 @@
+{
+    "vividus-studio.java-home": "C:\\Users\\nata\\Downloads\\OpenJDK21U-jdk_x64_windows_hotspot_21.0.4+7\\jdk-21.0.4+7",
+    "vividus-studio.stories-location": "src/test/resources/stories",
+    "vividus-studio.report-location": "build/reports",
+    "vividus-studio.test-runner": "org.vividus.runner.StoriesRunner"
+  }
