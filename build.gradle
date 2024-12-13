@@ -1,7 +1,8 @@
 project.description = 'Sample tests demoing VIVIDUS capabilities'
 group = 'org.vividus.demo'
 
-ext.buildSystemPath = "${System.env.VIVIDUS_BUILD_SYSTEM_HOME?:buildSystemRootDir}/${buildSystemVersion}"
+ext.buildSystemPath = "C:/Users/nata/VIVIDUS/vividus-sample-tests/vividus-build-system/2.0"
+
 
 apply from: "${buildSystemPath}/vividus-test-project.gradle"
 
